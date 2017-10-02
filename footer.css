@@ -1,0 +1,17 @@
+#footer{
+height: 100px;
+margin-bottom: 100px;
+background-color: #DC143C;
+clear: both;
+}
+#footer ul{
+  margin: :0px;
+  padding: 0px;
+}
+#footer li{
+list-style-type: none;
+float: left;
+display: block;
+width: 150px;
+height: 100px;
+}
