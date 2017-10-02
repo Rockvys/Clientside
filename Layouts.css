@@ -1,6 +1,7 @@
 body{
 background-color: #F0F8FF;
 font-family: cursive;
+font-size: 20px;
 }
 b{
   padding: 5px;
@@ -9,6 +10,51 @@ p{
   background: #DDA0DD;
   color: white;
   padding: 10px;
-  font-size: 20;
-  
+  font-size: 20px;
+}
+h{
+  font-size: 20px
+  color: #F0FFFF;
+}
+
+/*   container for main feed */
+#feed{
+    width:800px;
+    height: auto;
+    margin-left:auto ;
+    margin-right: auto;
+    margin-top: 11px;
+    background-color: #6495ED
+}
+#header{
+  height: 150px;
+  background-color: 	#00FFFF
+}
+#menu{
+  height: 150px;
+  background-color:  	#6495ED
+}
+/*   container for main feed */
+#div{
+  height: auto;
+  width: 800px;
+  background-color: #DCDCDC
+}
+#sidebar{
+width: 200px;
+height: 600px;
+background-color: #0000FF;
+float: left;
+}
+#mainbody{
+  width: 1100px;
+  height: 600px;
+  background-color: #7FFF00;
+  float:right;
+}
+#footer{
+height: 100px;
+margin-bottom: 21px;
+background-color: #DC143C;
+clear: both;
 }
